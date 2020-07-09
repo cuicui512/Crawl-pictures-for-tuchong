@@ -1,4 +1,4 @@
-# Crawl-pictures-for-tuchong
+# 爬虫爬取图虫网站的图
 
 初学爬虫 just for study
 
